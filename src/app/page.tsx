@@ -58,7 +58,7 @@ export default function Home() {
             {/* Center Logo */}
             <div className="flex-1 flex justify-center">
               <h1 className="text-2xl font-serif font-bold text-gray-900">
-                THE ÈLLIANCE
+                Forever Favours
               </h1>
             </div>
 
